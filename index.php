@@ -90,6 +90,20 @@ session_start();
                         </div>
                     </div>
                     <!--/.col-md-4-->
+                    
+                    <div class="col-md-6 col-sm-6 wow fadeInUp" data-wow-duration="300ms" data-wow-delay="100ms">
+                        <div class="media service-box">
+                            <a href="upload.php">
+                                <div class="pull-left">
+                                    <i class="fa fa-cloud-upload"></i>
+                                </div>
+                                <div class="media-body">
+                                    <h4 class="media-heading">Générer un mot de passe</h4></a>
+                            <p>Générer des mots de passe</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!--/.col-md-4-->
 
                     <div class="col-md-6 col-sm-6 wow fadeInUp" data-wow-duration="300ms" data-wow-delay="200ms">
                         <div class="media service-box">
