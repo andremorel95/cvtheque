@@ -3,7 +3,7 @@ session_start();
 ?>
 <!DOCTYPE html>
 <html lang="en">
-  <?php include( "include/header.php"); ?>
+  <?php include_once( "../include/header.php"); ?>
 	<body>
 
 		<?php
@@ -29,7 +29,7 @@ session_start();
 	                                    <i class="fa fa-cloud-upload"></i>
 	                                </div>
 	                                <div class="media-body">
-	                                    <h4 class="media-heading">Mettre en Une offre de Stage</h4></a>
+	                                    <h4 class="media-heading">Mettre en une offre de Stage</h4></a>
 	                            <p>Pensez a mettre les prérequis pour ce stage</p>
 	                            </div>
 	                        </div>
@@ -95,6 +95,6 @@ session_start();
 		}
 		?>
 	</body>
-	   <?php include( "include/footer.php"); ?>
+	   <?php include_once( "../include/footer.php"); ?>
 
 </html>
